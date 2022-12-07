@@ -193,7 +193,6 @@
                   environment.systemPackages = with packages; [
                     dde-top-panel
                     qt5platform-plugins #TODO nixos/modules/config/qt5.nix
-                    dde-introduction
                     dde-network-core
                     dde-kwin
                     deepin-kwin
